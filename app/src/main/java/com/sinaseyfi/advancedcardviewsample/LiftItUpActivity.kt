@@ -1,14 +1,13 @@
 package com.sinaseyfi.advancedcardviewsample
 
 import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.util.TypedValue
 import android.widget.SeekBar
+import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.animation.ArgbEvaluatorCompat
 import kotlinx.android.synthetic.main.activity_lift_it_up.*
-import kotlin.math.max
 
 class LiftItUpActivity : AppCompatActivity() {
 

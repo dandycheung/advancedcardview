@@ -3,11 +3,9 @@ package com.sinaseyfi.advancedcardviewsample
 import android.animation.Animator
 import android.animation.ValueAnimator
 import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.view.animation.DecelerateInterpolator
-import com.google.android.material.animation.AnimationUtils
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_rainbow.*
 
 class RainbowActivity : AppCompatActivity() {

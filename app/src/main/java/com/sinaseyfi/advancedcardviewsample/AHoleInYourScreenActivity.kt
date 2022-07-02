@@ -1,11 +1,10 @@
 package com.sinaseyfi.advancedcardviewsample
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.util.TypedValue
 import android.view.MotionEvent
 import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_a_hole_in_your_screen.*
 import kotlin.math.abs
 import kotlin.math.asin

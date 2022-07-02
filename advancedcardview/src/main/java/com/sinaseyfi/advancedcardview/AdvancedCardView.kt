@@ -438,6 +438,7 @@ class AdvancedCardView: FrameLayout {
                 background_Gradient_OffCenter_X,
                 background_Gradient_OffCenter_Y
             )
+            ColorType.Solid -> {}
         }
     }
 
@@ -466,6 +467,7 @@ class AdvancedCardView: FrameLayout {
                 stroke_Gradient_OffCenter_X,
                 stroke_Gradient_OffCenter_Y
             )
+            ColorType.Solid, ColorType.Gradient_Radial -> {}
         }
     }
 
